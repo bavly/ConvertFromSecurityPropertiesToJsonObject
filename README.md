@@ -1,1 +1,1 @@
-# to help us for Hashicorp Vault to Move our Application.Properties to JSON Object 
+# To help us for Hashicorp Vault to move our Application.Properties to JSON Object. 
